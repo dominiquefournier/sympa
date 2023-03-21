@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sympa\n"
 "Report-Msgid-Bugs-To: https://translate.sympa.community\n"
-"POT-Creation-Date: 2023-03-20 00:48:15+0000\n"
+"POT-Creation-Date: 2023-03-21 00:48:35+0000\n"
 "PO-Revision-Date: 2012-05-31 23:17+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: Português\n"
@@ -9131,8 +9131,9 @@ msgid "Member since:"
 msgstr "%1 subscritores adicionados"
 
 #: default/web_tt2/suboptions.tt2:17
-msgid "Receiving mode:"
-msgstr ""
+#, fuzzy
+msgid "Reception mode:"
+msgstr "modo text-only"
 
 #: default/web_tt2/suboptions.tt2:35
 msgid "Topic subscription:"
@@ -10386,9 +10387,9 @@ msgstr ""
 
 #. ('')
 #: default/mail_tt2/info_report.tt2:26
-#, smalltalk-format
-msgid "Receiving modes   : %1"
-msgstr ""
+#, fuzzy, smalltalk-format
+msgid "Reception modes   : %1"
+msgstr "%1 / removendo subscrição de %2"
 
 #. (url)
 #: default/mail_tt2/info_report.tt2:36
